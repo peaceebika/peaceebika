@@ -45,7 +45,7 @@
 ### 💬 Fun Fact
 
 > *"Clarity is the proof of understanding."*  
-> That’s the mindset behind how I teach and create data science content in my YouTube tutorials for everyone.
+> That’s the mindset behind how I teach and create data science & AI content in my YouTube tutorials for everyone.
 
 ---
 
