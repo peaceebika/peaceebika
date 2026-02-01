@@ -3,7 +3,7 @@
 [<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" alt="Coding GIF" />](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 👩‍💻 About Me
-- 👨‍💻 I’m a Data Scientist/Machine Learning Engr and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence & Intelligent Systems  at UDLAP
+- 👨‍💻 I’m a Data Scientist/ML & AI Engr and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence & Intelligent Systems  at UDLAP
 - 🎥 I run an educational YouTube channel,  [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace), with 2k+ learners
 - 🛠️ Tech topics I explore: `Big Data`, `Airflow`, `Spark`, `Scala`, `AWS`, `Data Pipelines`
 - 📚 I simplify complex concepts like `Python`, `DSA`, and `DBMS` for all levels
