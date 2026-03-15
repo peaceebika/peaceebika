@@ -5,7 +5,7 @@
 ### 👩‍💻 About Me
 - 👨‍💻 I’m a Data Scientist/ML & AI Engr and Content Creator working remotely in the United States and also a PhD Researcher in Artificial Intelligence & Intelligent Systems  at UDLAP
 - 🎥 I run an educational YouTube channel,  [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace) with 2k+ learners
-- 🛠️ Tech topics I explore: `Python`, `SQL`, `Power BI`, `TensorFlow`, `AWS`, `Docker`
+- 🛠️ Tech topics I explore: `Python`, `SQL`, `Power BI`, `Azure`, `AWS`, `Docker`
 - 📚 I simplify complex concepts like `Python`, `DSA`, and `DBMS` for all levels
 - 📩 Reach out: emenikepeace23@gmail.com
 
