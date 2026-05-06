@@ -7,7 +7,7 @@
 - 🎥 I run an educational YouTube channel,  [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace) with 2k+ learners
 - 🛠️ Tech topics I explore: `Python`, `SQL`, `Power BI`, `Azure`, `AWS`, `Docker`
 - 📚 I simplify complex concepts like `Python`, `DSA`, and `DBMS` for all levels
-- 📩 Reach out: emenikepeace55@gmail.com
+- 📩 Reach out: emenikepeace5@gmail.com
 
 <br clear="right"/>
 
