@@ -3,7 +3,7 @@
 [<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" alt="Coding GIF" />](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 👩‍💻 About Me
-- 👨‍💻 I'm a Machine Learning & AI Engineer working remotely, a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP, and a technical educator passionate about teaching AI, Machine Learning, Data Science, Mathematics, Optimization, Deep Learning, and Python.
+- 👨‍💻 I'm a Machine Learning & AI Engineer working remotely, a PhD Researcher in Artificial Intelligence & Intelligent Systems at UDLAP, and a technical educator passionate about teaching `AI`, `Machine Learning`, `Data Science`, `Mathematics`, `Optimization`, `Deep Learning`, and `Python`.
 - 🎥 I run an educational YouTube channel,  [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace) with 2k+ learners
 - 🛠️ Tech topics I explore: `Python`, `SQL`, `Power BI`, `Azure`, `AWS`, `Docker`
 - 📚 I simplify complex concepts like `Python`, and `DSA` for all levels
